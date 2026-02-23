@@ -52,10 +52,10 @@ It demonstrates **multiclass text classification, text preprocessing, feature en
 ## 🖼 Visualizations
 
 ### Confusion Matrix Example
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](Screenshot 2026-02-23 193617.png)
 
 ### Top Frequent Words per Category
-![Top Words](images/top_words.png)
+![Top Words](Screenshot 2026-02-23 193629.png)
 
 > *Tip:* Replace the placeholders with your actual screenshots from Kaggle.
 
