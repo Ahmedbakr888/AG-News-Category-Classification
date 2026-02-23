@@ -52,7 +52,7 @@ It demonstrates **multiclass text classification, text preprocessing, feature en
 ## 🖼 Visualizations
 
 ### Confusion Matrix Example
-![Confusion Matrix](Screenshot 2026-02-23 193617.png)
+![Confusion Matrix](conf_matrix.png)
 
 ### Top Frequent Words per Category
 ![Top Words]("C:\Users\EGY10\Pictures\Screenshots\Screenshot 2026-02-23 193617.png")
