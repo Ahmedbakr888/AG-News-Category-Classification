@@ -55,9 +55,8 @@ It demonstrates **multiclass text classification, text preprocessing, feature en
 ![Confusion Matrix](conf_matrix.png)
 
 ### Top Frequent Words per Category
-![Top Words]("C:\Users\EGY10\Pictures\Screenshots\Screenshot 2026-02-23 193617.png")
+![Top Words](freq.png)
 
-> *Tip:* Replace the placeholders with your actual screenshots from Kaggle.
 
 ---
 
